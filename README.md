@@ -1,1 +1,1 @@
-# ngs-variant-analysis
+# esm2-protein-classification
