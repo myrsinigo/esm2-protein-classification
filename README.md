@@ -100,6 +100,9 @@ The first two principal components explained approximately 24.7% of the variance
 
 ![ROC](results/roc_curve.png)
 
+<img width="650" height="646" alt="image" src="https://github.com/user-attachments/assets/1caffad5-fe36-48de-9835-36d62e5d85af" />
+
+
 ---
 
 ## Biological Interpretation
